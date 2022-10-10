@@ -1,0 +1,3 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Satorideemz/Ejercicio-palindromos/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Satorideemz/Ejercicio-palindromos/tree/main)
+[![Maintainability](https://api.codeclimate.com/v1/badges/070195147ebb3527c25a/maintainability)](https://codeclimate.com/github/Satorideemz/Ejercicio-cafe/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/070195147ebb3527c25a/test_coverage)](https://codeclimate.com/github/Satorideemz/Ejercicio-cafe/test_coverage)
